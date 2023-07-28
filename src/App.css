@@ -1,0 +1,26 @@
+/* body {
+    background-color: #000;
+    margin: auto;
+    width: 95%;
+} */
+
+.header_dropdown {
+    border: 2px solid #e9e5e593;
+    border-radius: 30px;
+    padding: 6px 8px;
+
+}
+
+.logo {
+    padding-left: 45px;
+}
+
+
+.header_menus {
+    display: flex;
+    border: 2px solid #e9e5e593;
+    border-radius: 30px;
+    padding: 4px 4px;
+
+
+}
